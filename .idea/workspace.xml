@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3168a937-89e5-42d8-b6c9-489802a9b37f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/resources/lectures/lecture_02_intro_computers.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/resources/lectures/lecture_02_intro_ict.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="3168a937-89e5-42d8-b6c9-489802a9b37f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +37,7 @@
       <updated>1599733580497</updated>
       <workItem from="1599733581840" duration="653000" />
       <workItem from="1599803271094" duration="578000" />
-      <workItem from="1602402835105" duration="1315000" />
+      <workItem from="1602402835105" duration="1601000" />
     </task>
     <servers />
   </component>
