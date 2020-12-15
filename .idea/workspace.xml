@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3168a937-89e5-42d8-b6c9-489802a9b37f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,20 @@
       <workItem from="1599803271094" duration="578000" />
       <workItem from="1602402835105" duration="2133000" />
       <workItem from="1606363715851" duration="1792000" />
-      <workItem from="1606382806588" duration="667000" />
+      <workItem from="1606382806588" duration="1264000" />
+      <workItem from="1606786495986" duration="335000" />
+      <workItem from="1606786906547" duration="477000" />
+      <workItem from="1606877908416" duration="351000" />
+      <workItem from="1606964734162" duration="572000" />
+      <workItem from="1606966936816" duration="589000" />
+      <workItem from="1606979313172" duration="418000" />
+      <workItem from="1606985694740" duration="419000" />
+      <workItem from="1607053604497" duration="484000" />
+      <workItem from="1607120854480" duration="850000" />
+      <workItem from="1607185680281" duration="154000" />
+      <workItem from="1607317076757" duration="551000" />
+      <workItem from="1607351613579" duration="410000" />
+      <workItem from="1608053077976" duration="300000" />
     </task>
     <servers />
   </component>
@@ -49,6 +63,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="522" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606786514644">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state x="522" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1680.979@0.25.1680.979" timestamp="1606786514644" />
     <state x="1599" y="693" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599803280021">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
